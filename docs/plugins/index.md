@@ -10,6 +10,7 @@ Plugins are 'extensions' that you can add to your program to enhance performance
 Command
 Events
 Scheduler
+DataPacket
 ```
 
 ## Example Plugins
