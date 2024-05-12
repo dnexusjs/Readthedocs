@@ -8,6 +8,7 @@ this.getNexus().getPluginManager().registerEvents(new EventListener())
 ```
 
 To use any event, create a function with the function name being the name of the event to use
+
 You can see the event names [here](https://github.com/dnexusjs/DiscordNexus/blob/master/src/event/Events.js)
 
 Ex:
