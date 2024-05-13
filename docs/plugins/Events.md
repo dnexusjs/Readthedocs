@@ -1,4 +1,4 @@
-# Events
+# Event Handling
 
 To consume events from Nexus and Client you can register using the `registerEvents` method
 
@@ -24,3 +24,7 @@ export class EventListener extends Listener {
 }
 ```
 
+Tutorial Video:
+<iframe width="480" height="315"
+src="https://www.youtube.com/embed/BmHmnSikl50">
+</iframe>

@@ -4,7 +4,9 @@ Some people may think that using NodeJS's default functions setTimeout and setIn
 
 
 For the Task Scheduler, there are two main methods:
+
 The `scheduleDelayedTask` method: creates a task to be executed after a specific period of time.
+
 The `scheduleDelayedRepeatingTask` method: creates a task that repeats and executes after a specific period of time.
 
 Tick: `1000` would be equivalent to `1` second
