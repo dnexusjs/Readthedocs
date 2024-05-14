@@ -7,6 +7,7 @@ Plugins are 'extensions' that you can add to your program to enhance performance
 ```{toctree}
 :hidden:
 
+PluginProperty
 Command
 Events
 Scheduler
